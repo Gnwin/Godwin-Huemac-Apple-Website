@@ -53,7 +53,11 @@ body {
 }
 
 /** main content **/
-
+.all {
+  max-width: 120rem;
+  width: 100%;
+  margin: 0 auto;
+}
 
 /** footer **/
 

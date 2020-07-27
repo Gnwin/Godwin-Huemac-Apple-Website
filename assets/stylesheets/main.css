@@ -68,6 +68,7 @@ body {
 
 .all .two {
   background-image: url("./assets/images/promo_iphone5s.jpg");
+  width: 100%;
 }
 
 .all .three {

@@ -83,7 +83,6 @@ body {
 .privacy {
   margin: 0.8333rem 0 0;
   display: flex;
-  flex-direction: row;
 }
 
 .list-algn {

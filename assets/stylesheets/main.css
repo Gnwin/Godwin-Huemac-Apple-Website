@@ -61,13 +61,33 @@ body {
   margin: 0 auto;
 }
 
-.all .all-grid1 {
-  grid-column-start: 1;
-  grid-column-end: 6;
-  /* background: url(https://web.archive.org/web/20140301161550im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg); */
+.all .one {
+  /* background-image: url("./assets/images/apple_back.png"); */
+  background-image: url("apple_back.png");
+}
+
+.all .two {
+  background-image: url("./assets/images/promo_iphone5s.jpg");
+}
+
+.all .three {
+  background-image: url("./assets/images/promo_30_years.jpg");
+}
+
+.all .four {
+  background-image: url("./assets/images/promo_supplier_responsibility.jpg");
+}
+
+.all .five {
+  background-image: url("./assets/images/promo_supplier_responsibility.jpg");
 }
 
 /** footer **/
+
+.footer {
+  font-size: 0.9rem;
+}
+
 .footer-links {
   max-width: 81.66667rem;
   margin: 0 auto;

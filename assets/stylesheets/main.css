@@ -19,20 +19,38 @@ body {
   font-size: 75%;
 }
 
-.menu {
-
+.font {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
-
-.menu-link {
-  
-}
-
-/* .font {
-  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
-} */
 
 /** header **/
 
+.header {
+  max-width: 78rem;
+  width: 100%;
+  margin: auto;
+  font-size: 1rem;
+}
+
+.menu {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  /* background-image: url(/web/20140301180411im_/http://images.apple.com/global/nav/images/globalnav_text.svg); */
+  overflow: hidden;
+}
+
+.link {
+  width: 11.1111%;
+  /* background-image: url(/web/20140301180411im_/http://images.apple.com/global/nav/images/globalnav_text.svg); */
+}
+
+.menu-link {
+  text-decoration: none;
+  width: 100%;
+  /* color: white; */
+}
 
 /** main content **/
 

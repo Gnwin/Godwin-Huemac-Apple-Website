@@ -37,19 +37,19 @@ body {
   text-align: center;
   justify-content: center;
   align-items: center;
-  /* background-image: url(/web/20140301180411im_/http://images.apple.com/global/nav/images/globalnav_text.svg); */
   overflow: hidden;
 }
 
 .link {
   width: 11.1111%;
   /* background-image: url(/web/20140301180411im_/http://images.apple.com/global/nav/images/globalnav_text.svg); */
+  background-color: lightslategray;
 }
 
 .menu-link {
   text-decoration: none;
   width: 100%;
-  /* color: white; */
+  color: white;
 }
 
 /** main content **/

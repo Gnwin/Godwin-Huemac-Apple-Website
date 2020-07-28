@@ -67,14 +67,28 @@ body {
 
 .test {
   max-width: 120rem;
-  height: auto;
-  background: url("../assets/images/apple_back.png");
+  margin: 0 auto;
+  max-height: auto;
+  /* background: url("../assets/images/apple_back.png"); */
+  /* background-image: url("./assets/images/apple_back.png"); */
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
+  /* background-size: 100% auto; */
+  /* width: 400px; */
+  /* height: 400px; */
+  border: 2px dashed #333;
+  background: none url("../assets/images/apple_back.png") no-repeat scroll center;
+  background-size: 100% auto;
 }
+
+/* color image repeat attachment position */
 
 .all .one {
   grid-column-start: 1;
   grid-column-end: 6;
-  background-image: url(../images/apple_back.png);
+  /* background-image: url(../images/apple_back.png); */
+  max-width: 120rem;
+  /* width: 100%; */
 }
 
 .all .two {

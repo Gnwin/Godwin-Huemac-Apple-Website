@@ -42,7 +42,6 @@ body {
 
 .link {
   width: 11.1111%;
-  /* background-image: url(/web/20140301180411im_/http://images.apple.com/global/nav/images/globalnav_text.svg); */
   background-color: lightslategray;
 }
 
@@ -58,6 +57,7 @@ body {
   display: grid;
   grid-template-columns: auto auto auto auto auto;
   max-width: 120rem;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -65,34 +65,16 @@ body {
   width: 100%;
 }
 
-/* .test {
-  max-width: 120rem;
-  margin: 0 auto;
-  max-height: auto;
-  /* background: url("../assets/images/apple_back.png"); */
-  /* background-image: url("./assets/images/apple_back.png"); */
-  /* background-repeat: no-repeat; */
-  /* background-position: center; */
-  /* background-size: 100% auto; */
-  /* width: 400px; */
-  /* height: 400px; */
-  /* border: 2px dashed #333;
-  background: none url("../assets/images/apple_back.png") no-repeat scroll center;
-  background-size: 100% auto;
-} */ 
-
-/* color image repeat attachment position */
+/* color image position size repeat origin clip attachment */
 
 .all .one {
   grid-column-start: 1;
   grid-column-end: 6;
-  background: url(../images/apple_back.png);
-  width: 100%;
   height: 44.833rem;
-  max-height: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
   position: relative;
+  background: url(../images/apple.jpg) 50% 100% no-repeat;
+  /* background-size: 1440px 1315px; */
+  /* background-size: 1440px 538px; */
 }
 
 .all .two {

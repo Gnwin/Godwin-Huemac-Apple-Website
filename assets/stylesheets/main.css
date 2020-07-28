@@ -78,10 +78,14 @@ body {
 }
 
 .all .two {
+  height: 20rem;
+  background: url(../images/promo_iphone5s.jpg) 100% 100% no-repeat;
   /* background-image: url("./assets/images/promo_iphone5s.jpg"); */
 }
 
 .all .three {
+  height: 20rem;
+  background: url(../images/promo_iphone5c.jpg) 100% 100% no-repeat;
   /* background-image: url("./assets/images/promo_30_years.jpg"); */
 }
 

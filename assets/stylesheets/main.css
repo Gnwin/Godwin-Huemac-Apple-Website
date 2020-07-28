@@ -65,10 +65,16 @@ body {
   width: 100%;
 }
 
+.test {
+  max-width: 120rem;
+  height: auto;
+  background: url("../assets/images/apple_back.png");
+}
+
 .all .one {
   grid-column-start: 1;
   grid-column-end: 6;
-  background: url("./assets/images/apple_back.png");
+  background-image: url(../images/apple_back.png);
 }
 
 .all .two {

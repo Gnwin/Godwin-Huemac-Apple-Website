@@ -62,11 +62,17 @@ body {
   margin: 0 auto;
 }
 
-.verse {}
+.verse {
+  text-align: center;
+}
 
-.share {}
+.share {
+  text-align: center;
+}
 
-.story {}
+.story {
+  text-align: center;
+}
 
 .l {}
 

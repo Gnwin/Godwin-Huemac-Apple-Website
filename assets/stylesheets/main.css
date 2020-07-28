@@ -73,28 +73,30 @@ body {
   height: 44.833rem;
   position: relative;
   background: url(../images/apple.jpg) 50% 100% no-repeat;
-  /* background-size: 1440px 1315px; */
-  /* background-size: 1440px 538px; */
 }
 
 .all .two {
-  height: 20rem;
-  background: url(../images/promo_iphone5s.jpg) 100% 100% no-repeat;
-  /* background-image: url("./assets/images/promo_iphone5s.jpg"); */
+  width: 30rem;
+  height: 16.4835rem;
+  background: url(../images/promo_iphone5s.jpg) no-repeat;
 }
 
 .all .three {
-  height: 20rem;
-  background: url(../images/promo_iphone5c.jpg) 100% 100% no-repeat;
-  /* background-image: url("./assets/images/promo_30_years.jpg"); */
+  width: 30rem;
+  height: 16.4835rem;
+  background: url(../images/promo_iphone5c.jpg) no-repeat;
 }
 
 .all .four {
-  /* background-image: url("./assets/images/promo_supplier_responsibility.jpg"); */
+  width: 30rem;
+  height: 16.4835rem;
+  background: url(../images/promo_30_years.jpg) no-repeat;
 }
 
 .all .five {
-  /* background-image: url("./assets/images/promo_supplier_responsibility.jpg"); */
+  width: 30rem;
+  height: 16.4835rem;
+  background: url(../images/promo_supplier_responsibility.jpg) no-repeat;
 }
 
 /** footer **/

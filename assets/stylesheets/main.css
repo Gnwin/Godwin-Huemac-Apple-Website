@@ -62,8 +62,17 @@ body {
   margin: 0 auto;
 }
 
+.section a{
+  text-decoration: none;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.755);
+}
+
 .verse {
   text-align: center;
+  font-size: 60px;
+  margin-block-end: 1.5rem;
 }
 
 .share {

@@ -3,7 +3,7 @@ No more pain by fighting background images, they can be placed at once using gri
 
 # Screenshot
 
-![screenshot](https://github.com/Huemac-Alfredo/Alfredo-Godwin-newyork-times-clone/blob/apple/assets/images/apple_screenshot.PNG)
+![screenshot](https://github.com/Gnwin/Godwin-Huemac-Apple-Website/blob/apple/assets/images/apple_screenshot.PNG)
 
 # Microverse Exercise Mockup
 

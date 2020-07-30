@@ -174,18 +174,19 @@ body {
 }
 
 .list-algn {
-  display: block;
+  display: flex;
   list-style-type: none;
+  justify-content: center;
 }
 
 .first {
-  display: inline-block;
+  display: inline-flex;
   padding: 0 0.4166rem;
   height: 1.166rem;
 }
 
 .f-li {
-  display: inline-block;
+  display: inline-flex;
   padding: 0 0.4166rem;
   height: 1.166rem;
   border-left: 1px solid #ccc;
@@ -198,9 +199,15 @@ body {
 }
 
 .li-img {
+  width: 1.2rem;
 }
+
+.fl {
+  display: flex;
+}
+
 .options {
   width: 52%; 
   float: right;
-  padding: 0.72rem 0 2.5rem;
+  padding: 1rem 0 2.5rem;
 }

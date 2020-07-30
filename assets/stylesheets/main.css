@@ -152,16 +152,17 @@ body {
 /** footer **/
 
 .footer {
-  font-size: 0.9rem;
+  font-size: 0.84rem;
+  color: #888;
 }
 
 .footer-links {
-  max-width: 81.66667rem;
+  max-width: 83rem;
   margin: 0 auto;
 }
 
 .policy {
-  width: 49%;
+  width: 48%;
   padding: 1.166667rem 0 2.5rem;
   float: left;
   
@@ -173,22 +174,33 @@ body {
 }
 
 .list-algn {
+  display: block;
   list-style-type: none;
 }
 
-.list-algn .f-li {
+.first {
   display: inline-block;
   padding: 0 0.4166rem;
+  height: 1.166rem;
 }
 
-.list-algn .f-li .f-links {
-  color: rgb(43,156,212);
+.f-li {
+  display: inline-block;
+  padding: 0 0.4166rem;
+  height: 1.166rem;
+  border-left: 1px solid #ccc;
+}
+
+.f-links {
+  color: #08c;
   text-decoration: none;
+  height: 1.166rem;
 }
 
+.li-img {
+}
 .options {
-  width: 51%;
+  width: 52%; 
   float: right;
-  width: 49%;
-  padding: 1.166667rem 0 2.5rem;
+  padding: 0.72rem 0 2.5rem;
 }

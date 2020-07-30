@@ -1,9 +1,9 @@
 # Godwin-Huemac-Apple-Website
-This is an Apple Website Clone from Microverse
+No more pain by fighting background images, they can be placed at once using grid!! If you'd like to know how, a look on the code of our apple website project would be very handful! It consists in three parts, a header, a footer and a main grid image container. Each of the grid items have its own background image. Another valuable thing that helped us to build this project was doing math divisions and sums to understand the website proportions. 
 
 # Screenshot
 
-![screenshot]()
+![screenshot]((https://github.com/Huemac-Alfredo/Alfredo-Godwin-newyork-times-clone/blob/apple/assets/images/apple_screenshot.PNG)
 
 # Microverse Exercise Mockup
 
@@ -12,8 +12,8 @@ This is an Apple Website Clone from Microverse
 ## Built With
 
 - HTML,
-- CSS, (flex, grid and float properties)
-- Iframe, icons tag (flaticon).
+- CSS, (flex, grid, gradients, backgrounds and float properties)
+- flaticon library, embedded images
 
 ## Live Demo
 
@@ -37,7 +37,7 @@ This is an Apple Website Clone from Microverse
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Gnwin/Godwin-Huemac-Apple-Website/issues/1).
 
 ## Show your support
 

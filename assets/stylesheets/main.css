@@ -2,11 +2,11 @@
 
 /* line - 13 general */
 
-/* line - 28 header */
+/* line - 26 header */
 
-/* line - 89 main content */
+/* line - 87 main content */
 
-/* line - 154 footer */
+/* line - 152 footer */
 
 /** GENERAL **/
 
@@ -86,14 +86,6 @@ body {
 
 /** main content **/
 
-.all {
-  display: grid;
-  grid-template-columns: auto auto auto auto auto;
-  max-width: 120rem;
-  width: 100%;
-  margin: 0 auto;
-}
-
 .section {
   text-align: center;
 }
@@ -115,6 +107,14 @@ body {
 
 .l {
   text-align: center;
+}
+
+.all {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  max-width: 120rem;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .all .one {

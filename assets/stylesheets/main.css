@@ -4,9 +4,9 @@
 
 /* line - 28 header */
 
-/* line - 89 main content */
+/* line - 88 main content */
 
-/* line - 151 footer */
+/* line - 150 footer */
 
 /** GENERAL **/
 
@@ -34,7 +34,6 @@ body {
 }
 
 .menu {
-  display: flex;
   text-align: center;
   justify-content: center;
   align-items: center;
@@ -86,11 +85,7 @@ body {
 
 /** main content **/
 
-.section {
-  text-align: center;
-}
-
-.l {
+.txt {
   text-align: center;
 }
 
@@ -118,13 +113,13 @@ body {
 }
 
 .measure {
-  width: 30rem;
+  grid-column: span 2;
   height: 16.4835rem;
 }
 
 .all .one {
   grid-column-start: 1;
-  grid-column-end: 6;
+  grid-column-end: 9;
   height: 44.833rem;
   position: relative;
   background: url(../images/apple.jpg) 50% 100% no-repeat;
@@ -132,18 +127,22 @@ body {
 
 .all .two {
   background: url(../images/promo_iphone5s.jpg) no-repeat;
+  background-position: center;
 }
 
 .all .three {
   background: url(../images/promo_iphone5c.jpg) no-repeat;
+  background-position: center;
 }
 
 .all .four {
   background: url(../images/promo_30_years.jpg) no-repeat;
+  background-position: center;
 }
 
 .all .five {
   background: url(../images/promo_supplier_responsibility.jpg) no-repeat;
+  background-position: center;
 }
 
 /** footer **/
@@ -166,11 +165,9 @@ body {
 
 .privacy {
   margin: 0.8333rem 0 0;
-  display: flex;
 }
 
 .list-algn {
-  display: flex;
   list-style-type: none;
   justify-content: center;
 }

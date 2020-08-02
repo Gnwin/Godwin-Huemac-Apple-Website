@@ -1,0 +1,206 @@
+/*** Project Meta ***/
+
+/* line - 13 general */
+
+/* line - 28 header */
+
+/* line - 88 main content */
+
+/* line - 150 footer */
+
+/** GENERAL **/
+
+html,
+body {
+  background-color: white;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-size: 75%;
+}
+
+.font {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+/** header **/
+
+.header {
+  max-width: 78rem;
+  width: 100%;
+  margin: auto;
+  font-size: 1rem;
+  margin-top: 7rem;
+}
+
+.menu {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(0, 0, 0, 0.2)), color-stop(0.05, rgba(0, 0, 0, 0)), color-stop(0.97, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.45))), -webkit-gradient(linear, 0 0, 100% 0, from(rgba(0, 0, 0, 0.2)), color-stop(0.002, rgba(0, 0, 0, 0)), color-stop(0.998, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.2))), url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9QAAAAkCAMAAABfcIIyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAHVQTFRFAAAA%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F5YtmQAAAACd0Uk5TAAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmZiD6WAAAAdlJREFUeF7t3btuFEEQheFzunotGYkIERA4spn3fyeHiAgEEtsXB82s2eEJavR%2F0Wjyo75XWfHpw4MkSXNqCkA2lr2%2B%2Fvz63n15qpI0x5yTSAM52XaxJLVXf%2FkoaY6xQk2sgXy8Ql2KJf3wS5HG6HMMQg3kZNkuxVGKNLxJo48%2BxhxTpBrIx7JcXEqUKJI3zd77CjWLaiAle4U6Iixv6q33MfocTL%2BBlCy7OEqJqCFvs%2FV2m3%2BTaiAd6zb7rlHtrbc1VA%2Bm30BSa%2B%2B7RNSo4a21thbVTL%2BBnCy7rCV1rdXbtbXW%2B%2Bh%2Ft78BZLM2v6NE1Fov%2FrpC3Zl%2BA2l5H6lrrRe%2FXNu%2BqCbUQE57qGvsoW5t9D4H028gJculOKLUWuvFz%2B16O9NipAZSsm8nWpfq53ZlTQ3k9s%2BamlADZ0CogZMh1MDJEGrgZAg1cDL%2Fh5ojLSC1%2ByMtLp8A2R0un3BNFEjv%2FpooDzqA9O4fdPD0Esju8PSSIglAdsciCZQzArI7lDOat30yCg8CGe2FB1eovZcI7oMSwUBSq0TwWlQHxfyBEzgW86ftDpDase0ODfKA7A4N8mhlC2R318r2px%2BeQqLpPJDae9P5%2FmrVz491%2FWekBlKy7PXVfn9rb9xXsMD2wdOcAAAAAElFTkSuQmCC) no-repeat 50% 50%, -webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51, #707070), to(#808080));
+  border-radius: 0.3rem;
+  height: 2.4rem;
+}
+
+.fle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link {
+  width: 11.1111%;
+}
+
+.link:hover {
+  cursor: pointer;
+  background-color: #444;
+}
+
+.menu-link {
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  height: 100%;
+}
+
+.search {
+  width: 1.8rem;
+}
+
+.bord {
+  border-left: 1px solid #555;
+  height: 100%;
+}
+
+.br {
+  border-radius: 25px;
+  background: url(../images/search.jpg) no-repeat right 7px center;
+  background-size: 1.4rem 1.4rem;
+  background-position: left center;
+  width: 80%;
+  height: 1.4rem;
+}
+
+/** main content **/
+
+.txt {
+  text-align: center;
+}
+
+.section .l {
+  text-decoration: none;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.755);
+}
+
+.text1 {
+  margin-top: 3.6rem;
+}
+
+.text3 {
+  margin-top: 1.5rem;
+}
+
+.all {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  max-width: 120rem;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.measure {
+  grid-column: span 2;
+  height: 16.4835rem;
+}
+
+.all .one {
+  grid-column-start: 1;
+  grid-column-end: 9;
+  height: 44.833rem;
+  position: relative;
+  background: url(../images/apple.jpg) 50% 100% no-repeat;
+}
+
+.all .two {
+  background: url(../images/promo_iphone5s.jpg) no-repeat;
+  background-position: center;
+}
+
+.all .three {
+  background: url(../images/promo_iphone5c.jpg) no-repeat;
+  background-position: center;
+}
+
+.all .four {
+  background: url(../images/promo_30_years.jpg) no-repeat;
+  background-position: center;
+}
+
+.all .five {
+  background: url(../images/promo_supplier_responsibility.jpg) no-repeat;
+  background-position: center;
+}
+
+/** footer **/
+
+.footer {
+  font-size: 0.84rem;
+  color: #888;
+}
+
+.footer-links {
+  max-width: 83rem;
+  margin: 0 auto;
+}
+
+.policy {
+  width: 48%;
+  padding: 1.166667rem 0 2.5rem;
+  float: left;
+}
+
+.privacy {
+  margin: 0.8333rem 0 0;
+}
+
+.list-algn {
+  list-style-type: none;
+  justify-content: center;
+}
+
+.first {
+  display: inline-flex;
+  padding: 0 0.4166rem;
+  height: 1.166rem;
+}
+
+.f-li {
+  display: inline-flex;
+  padding: 0 0.4166rem;
+  height: 1.166rem;
+  border-left: 1px solid #ccc;
+}
+
+.f-links {
+  color: #08c;
+  text-decoration: none;
+  height: 1.166rem;
+}
+
+.li-img {
+  width: 1.2rem;
+}
+
+.fl {
+  display: flex;
+}
+
+.options {
+  width: 52%;
+  float: right;
+  padding: 1rem 0 2.5rem;
+}

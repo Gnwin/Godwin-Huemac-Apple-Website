@@ -1,5 +1,5 @@
 # Godwin-Huemac-Apple-Website
-No more pain by fighting background images, they can be placed at once using grid!! If you'd like to know how, a look on the code of our apple website project would be very handful! It consists in three parts, a header, a footer and a main grid image container. Each of the grid items have its own background image. Another valuable thing that helped us to build this project was doing math divisions and sums to understand the website proportions. 
+No more pain by fighting background images, they can be placed at once using grid!! If you'd like to know how, a look on the code of our apple website project would be very handful! It consists of three parts, a header, a footer and a main grid image container. Each of the grid items have its own background image. Another valuable thing that helped us to build this project was doing math divisions and sums to understand the website proportions. 
 
 # Screenshot
 
@@ -17,7 +17,8 @@ No more pain by fighting background images, they can be placed at once using gri
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Gnwin/Godwin-Huemac-Apple-Website/apple/index.html)
+[Live Demo Link](https://gnwin.github.io/Godwin-Huemac-Apple-Website/)
+<!-- [Live Demo Link](https://raw.githack.com/Gnwin/Godwin-Huemac-Apple-Website/apple/index.html) -->
 
 ## Authors
 
